@@ -3,7 +3,8 @@
 ## HI ! I'm newer newbiest coder. I'll be a propessional Developer soon!
 []~(￣▽￣)~*
 ---
-
+![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=300&text=I+Like+Code&fontAlign=40&fontAlignY=40&color=timeGradient)
+--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
